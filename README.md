@@ -1,4 +1,4 @@
-# RISCRISC Processor
+# RISC Processor
 Completed
 Overview: This project involved the design and implementation of a custom RISC-style processor with 8 general-purpose registers and a compact instruction set architecture. The goal was to build a minimal yet functional CPU capable of executing arithmetic, logic, and branch instructions, including support for 16-bit integer and 16-bit IEEE-754 floating-point data conversions and addition/subtraction. We used the processor's custom instruction set to write a program in Assembly Language to handle the conversion and computations. A custom compiler for the instruction set, to convert the program from ASM to machine code was also created using C++.
 
