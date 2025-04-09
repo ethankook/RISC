@@ -21,5 +21,4 @@ Challenges: Addressing edge cases in floating-point conversion, handling operand
 
 Accomplishments: Delivered a functioning RISC processor capable of running multiple programs with clean modularity and real-time branching. Achieved stable signal timing and logic under extensive test conditions.
 
-Instruction Set Overview
 ![ISA](isa.png)
